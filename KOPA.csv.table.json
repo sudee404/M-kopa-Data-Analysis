@@ -1,0 +1,130 @@
+{
+  "columns": [
+    {
+      "width": 61,
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false
+    },
+    {
+      "field": "Product",
+      "title": "Product",
+      "width": 115,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "CustomerGender",
+      "title": "CustomerGender",
+      "width": 173,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Location",
+      "title": "Location",
+      "width": 119,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Region",
+      "title": "Region",
+      "width": 109,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "TotalPrice",
+      "title": "TotalPrice",
+      "width": 129,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "StartDate",
+      "title": "StartDate",
+      "width": 126,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Deposit",
+      "title": "Deposit",
+      "width": 114,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "DailyRate",
+      "title": "DailyRate",
+      "width": 125,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "TotalDays",
+      "title": "TotalDays",
+      "width": 128,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "AmountPaid30",
+      "title": "AmountPaid30",
+      "width": 159,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "AmountPaid60",
+      "title": "AmountPaid60",
+      "width": 160,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "AmountPaid360",
+      "title": "AmountPaid360",
+      "width": 167,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "LoanStatus360",
+      "title": "LoanStatus360",
+      "width": 160,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    }
+  ]
+}
